@@ -1,9 +1,12 @@
 # Memories App
 
 Add your favourite memories and access them forever!!
-![app screenshot]('/src/images/fe-app-screenshot.png')
-'/src/images/fe-app-screenshot'
+![fe-app-screenshot](https://user-images.githubusercontent.com/41260290/105123128-9abe3000-5ae8-11eb-8528-25c9ab6318a2.png)
 
+## Tech Stack
+
+- ReactJS
+- MaterialUI
 
 ## Install Locally
 
